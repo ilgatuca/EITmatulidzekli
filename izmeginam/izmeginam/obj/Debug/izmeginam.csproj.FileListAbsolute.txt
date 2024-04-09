@@ -1,0 +1,10 @@
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\bin\Debug\izmeginam.exe.config
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\bin\Debug\izmeginam.exe
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\bin\Debug\izmeginam.pdb
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\bin\Debug\Newtonsoft.Json.dll
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\bin\Debug\Newtonsoft.Json.xml
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\obj\Debug\izmeginam.csprojAssemblyReference.cache
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\obj\Debug\izmeginam.csproj.CoreCompileInputs.cache
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\obj\Debug\izmeginam.csproj.CopyComplete
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\obj\Debug\izmeginam.exe
+Z:\programmesana_2024\jauns projekts\izmeginam\izmeginam\obj\Debug\izmeginam.pdb
